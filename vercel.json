@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/dropin_applepay-TEST.html", "dest": "/dropin_applepay-TEST.html" }
+  ]
+}
